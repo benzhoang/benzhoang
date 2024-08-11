@@ -5,7 +5,7 @@
 # 💫About Me :
 - 🌱 I’m currently learning NodeJS, Express and MongoDB
 
-- 💬 Ask me about NodeJS, Express, MongoDB, ReactJS
+- 💬 Ask me about HTML, CSS, JS, ReactJS
 
 - 📫 How to reach me benzminh2003@gmail.com
 
