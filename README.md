@@ -3,13 +3,13 @@
 <h3 align="center">A Frontend developer</h3>
 
 # 💫About Me :
-- 🌱 I’m currently learning NodeJS, Express and MongoDB
+- 🌱 I’m currently learning **NodeJS, Express and MongoDB**
 
-- 💬 Ask me about HTML, CSS, JS, ReactJS
+- 💬 Ask me about **HTML, CSS, JS, ReactJS**
 
 - 📫 How to reach me benzminh2003@gmail.com
 
-- ⚡ Fun fact I'm very friendly and good-natured
+- ⚡ Fun fact **I'm very friendly and good-natured**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
