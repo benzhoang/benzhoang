@@ -1,7 +1,6 @@
 ![MassterHead](https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg)
 <h1 align="center">Hi 👋, I'm Nhat Minh (BenzHoang)</h1>
 <h3 align="center">A Frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 # 💫About Me :
 - 🌱 I’m currently learning NodeJS, Express and MongoDB
