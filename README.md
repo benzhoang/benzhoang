@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 # 💫About Me :
-- 🌱 I’m currently learning NodeJS, Express, MongoDB
+- 🌱 I’m currently learning NodeJS, Express and MongoDB
 
-- 💬 Ask me about NodeJS, Express, MongoDB or some language I have learned as HTML, CSS, JS, ReactJS
+- 💬 Ask me about NodeJS, Express, MongoDB, ReactJS
 
 - 📫 How to reach me benzminh2003@gmail.com
 
