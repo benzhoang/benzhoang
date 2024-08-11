@@ -7,7 +7,7 @@
 
 ⚡ Fun fact I'm very friendly and good-natured
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=benzhoang&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=benzhoang&theme=default&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=benzhoang&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benzhoang&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
