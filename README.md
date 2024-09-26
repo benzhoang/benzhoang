@@ -3,7 +3,7 @@
 <h3 align="center">A Frontend developer</h3>
 
 # 💫About Me :
-- 🌱 I’m currently learning **NodeJS, Express and MongoDB**
+- 🌱 I’m currently learning **NextJS, NodeJS, Express and MongoDB**
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS**
 
