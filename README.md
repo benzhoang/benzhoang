@@ -1,4 +1,4 @@
-![MassterHead](https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg)
+<img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg"/>
 <h1 align="center">Hi 👋, I'm Nhat Minh (BenzHoang)</h1>
 <h3 align="center">A Frontend developer</h3>
 
