@@ -40,6 +40,18 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
 </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
 </a>
