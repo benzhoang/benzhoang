@@ -1,0 +1,95 @@
+![Frontend Developer](./frontenddev.png)
+<h1 align="center">Hi 👋, I'm Nhat Minh (BenzHoang)</h1>
+<h3 align="center">A Frontend developer</h3>
+
+# 💫About Me :
+- 🌱 I’m currently learning **NextJS, NodeJS, Express, MongoDB, NestJS and React Native**
+
+- 💬 Ask me about **HTML, CSS, JS, ReactJS**
+
+- 📫 How to reach me benzminh2003@gmail.com
+
+- ⚡ Fun fact **I'm very friendly and good-natured**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/benzhoang1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="benzhoang1210" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  
+  <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+  </a>
+<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+</a>
+<a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>
+</a>
+<a href="https://react.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+</a>
+<a href="https://vite.dev" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/>
+</a>
+<a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
+</a>
+<a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/>
+</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50"/>
+</a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>  
+</a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://help.claris.com/en/connect-reference/content/images/jira.png" alt="jira" width="50" height="50"/>
+</a>
+
+</p>
+  
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=benzhoang&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=benzhoang&theme=default&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=benzhoang&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
