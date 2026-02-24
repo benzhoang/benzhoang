@@ -1,4 +1,4 @@
-![Frontend Developer](./frontenddev.png)
+![Frontend Developer](./image/frontend.png)
 <h1 align="center">Hi 👋, I'm Nhat Minh (BenzHoang)</h1>
 <h3 align="center">A Frontend developer</h3>
 
