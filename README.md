@@ -1,4 +1,3 @@
-<img src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1" alt="picture">
 <h1 align="center">Hi 👋, I'm Nhat Minh (BenzHoang)</h1>
 <h3 align="center">A Frontend developer</h3>
 
