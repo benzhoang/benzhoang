@@ -47,6 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="50"/>
   </a>
 
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50"/>
+  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50"/>
   </a>
