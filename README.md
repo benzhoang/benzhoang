@@ -3,9 +3,9 @@
 <h3 align="center">A Frontend developer</h3>
 
 # 💫About Me :
-- 🌱 I’m currently learning **NextJS, NodeJS, Express, MongoDB, NestJS and React Native**
+- 🌱 I’m currently learning **NextJS, Express, PortgreSQL and NestJS**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS**
+- 💬 Ask me about **React, Javascript and React Native**
 
 - 📫 How to reach me benzminh2003@gmail.com
 
@@ -82,17 +82,25 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="50"/>
   </a>
-
+  
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="50"/>
+  </a>
+          
+ <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
+  </a>
+  
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50"/>
   </a>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
-  </a>
-
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/>
+  </a>
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="portgresql" width="50"/>
   </a>
 
   <a href="https://www.postman.com" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
