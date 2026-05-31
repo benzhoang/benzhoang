@@ -3,7 +3,7 @@
 <h3 align="center">A Frontend developer</h3>
 
 # 💫About Me :
-- 🌱 I’m currently learning **NextJS, Express, PortgreSQL and NestJS**
+- 🌱 I’m currently learning **Typescript, NextJS, Express, PortgreSQL and NestJS**
 
 - 💬 Ask me about **React, Javascript and React Native**
 
